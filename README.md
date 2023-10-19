@@ -41,7 +41,8 @@ mains with battery time backup
 ## DIMENSIONS AND WEIGHT:
 approx. 25x15x15cm, up to 500g
 
-## HOUSING: plastic, transparent
+## HOUSING: 
+plastic, transparent
 
 ## Main components:
 ○ Microcontroller: Atmega328P-PU<br /> 
