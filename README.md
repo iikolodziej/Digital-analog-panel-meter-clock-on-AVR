@@ -34,9 +34,9 @@ home use conditions, splash protection
 mains with battery time backup
 
 ## PRECISION:
-timekeeping accuracy better than 1 s per day,<br /> 
-temperature measurement accuracy with an accuracy of ± 0.5°C in the range of -10 to 85°C,<br /> 
-accuracy of atmospheric pressure measurement ± 0.06 hPa in the range of 300 - 1100 hPa<br /> 
+○ timekeeping accuracy better than 1 s per day,<br /> 
+○ temperature measurement accuracy with an accuracy of ± 0.5°C in the range of -10 to 85°C,<br /> 
+○ accuracy of atmospheric pressure measurement ± 0.06 hPa in the range of 300 - 1100 hPa<br /> 
 
 ## DIMENSIONS AND WEIGHT:
 approx. 25x15x15cm, up to 500g
