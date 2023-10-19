@@ -1,6 +1,7 @@
 # Digital-analog-panel-meter-clock-on-AVR
 Digital-analog panel meter clock created with AVR Atmega328 and voltage panel meter
-![393820399_687904366649488_8207669757134570063_n](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/46d5fbf2-67ea-499e-a6e9-c262a57b8f2f)
+![Main photo](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/b4d90dc9-05b6-432f-b118-e286241d945c)
+
 
 ## Introduction
 One of the assignments at the technical university was to design a simple alarm clock. I always wanted to have a more elaborate clock made by myself - so I went further and created a clock that is a combination of modernity and tradition.
@@ -53,23 +54,30 @@ plastic, transparent
 ○ Barometer: BMP180<br /> 
 
 # ELECTRONIC SCHEMATIC
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/935c3e5a-691d-474f-8580-6c0851708537)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/74186f31-a50e-492e-b76c-278dbc55fa58)
+
 
 # PCB
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/53c9e552-233d-4b78-a93c-327474b158cb)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/5498a5e2-e909-4996-bb09-b769e6ff487c)
+
 
 # 3D DESIGN
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/ea187275-46e6-4292-9b9f-45b01dd4b95d)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/4c0535af-ef7b-4baf-b4a1-3b11ce1b95ea)
+
 
 # 3D PRINT & MECHANICS
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/0e186318-a75c-40ee-99d6-73bc0cda7378)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/98528aa7-58b1-4d47-a598-8fc2b9e960b9)
+
 
 # ASSEMBLY STAGES
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/b1624a2a-300d-417a-b162-06a1678bf99b)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/f559b5b5-45b8-4dc6-8b68-4b540213a910)
+
 
 # FINAL ASSEMBLY
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/9d7dc54c-98ae-48ff-b435-cb66369de7fc)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/5f1bf5f8-270b-4943-8dcf-934ca19eee26)
+
 
 # START-UP AND SYSTEM TESTS
-![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/accba982-2bae-468f-bf59-2d9aaa68f0fa)
+![obraz](https://github.com/iikolodziej/Digital-analog-panel-meter-clock-on-AVR/assets/118530880/ae2fc25a-040c-4341-8c5d-8817ac976664)
+
 
